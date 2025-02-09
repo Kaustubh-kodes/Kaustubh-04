@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Web development and server side programming<br>🎯 Goals: to get an internship in my field of learning<br>🏗️ Currently working on creating a full functioning e-commerce website</p>
+<p align="left">📚 I'm currently learning Web development and server side programming<br>🎯 Goals: to get an internship in my field of learning<br>🏗️ Currently working on creating a fully-fledged e-commerce website</p>
 
 ###
 
